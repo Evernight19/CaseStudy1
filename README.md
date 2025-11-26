@@ -89,15 +89,15 @@ The adoption of broadband Internet access in the early 2000's, like DSL and cabl
 <br>
 This new age would be defined by a few key features:
 
-It is more interactive and dynamic.
+- It is more interactive and dynamic.
 
-It is based on user-generated content.
+- It is based on user-generated content.
 
-It is more personalised.
+- It is more personalised.
 
-It is more focused on community and collaboration.
+- It is more focused on community and collaboration.
 
-It is more business-oriented.
+- It is more business-oriented.
 <br>
 <br>
 <br>
@@ -109,13 +109,13 @@ This evolution is reffered to as "Web 3.0".
 <br>
 Web 3.0 is characterised by how:
 
-It is based on using new technologies.
+- It is based on using new technologies.
 
-It is more intelligent.
+- It is more intelligent.
 
-It is more decentralised.
+- It is more decentralised.
 
-It is more secure.
+- It is more secure.
 
-It is more interactive and immersive.
+- It is more interactive and immersive.
 

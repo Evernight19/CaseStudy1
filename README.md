@@ -137,30 +137,35 @@ Web 3.0 is characterised by how:
 <br>
 The development of the Internet reshaped how knowledge is created, shared and applied. It transformed research from an isolated affair into a globally interconnected enterprise, which in turn accelerated discovery across the globe.
 <br>
+<br>
 One of the greatest benefits of the Internet is how it democratized knowledge, granting everyone limitless access to information. Online databases, digital libraries and open-acccess platforms allow scientists and others to access cutting-edge research quickly and easily. It also allows new scientific discoveries to be shared worldwide instantly.
+<br>
 <br>
 The Internet also allows researchers to co-ordinate across borders and continents in real time, sharing data, methods and results. This ability has been crucial in projects such as climate modelling, which requires massive amounts of data and diverse expertise. Online forums and video conferencing created a culture of teamwork, breaking down barriers that once slowed progress.
 <br>
+<br>
 The Internet enables researchers to process massive datasets in genomics, astrophysics, etc... Cloud computing and distributed networks allow computational power that was previously thought of as impossible. In addition, the rise of "Citizen Science" - non-experts contributing data through online platforms - has increased the scope of research. In addition, the Internet also allows for accelerated peer review and feedback, which allows for scientists and others to refine their work more quickly.
 <br>
+<br>
 While the Internet has democratized science, it also offers many challenges, such as: information overload, data privacy concerns and misinformation, to name but a few. Even so, current innovations promise to continue enhancing scientific progress. COST
+<br>
 <br>
 
 ***Societal Viewpoint Analysis:***
 <br>
-The development of the Internet has significantly improved, and continues to improve worldwide communication, culture, commerce and social structures. It remains both an empowering and disruptive instrument, creating both new opportunities and complex challenges.
+The development of the Internet has significantly improved and continues to improve communication, culture, commerce and social structures wolrwide. It remains both an empowering and disruptive instrument, creating both new opportunities and complex challenges.
 <br>
 <br>
-Firstly is how the Internet radically changed communication. Emails, instant messaging and social media have replaced traditional methods of communication, allowing for real-time interaction across entire countries and continents. This has created greater connectivity among individuals and communities, which in turn has torn down geographical barriers, allowing relationships to grow across borders.
+Firstly is how the Internet radically changed communication. Emails, instant messaging and social media have replaced traditional methods of communication, like letter-writing, allowing for real-time interaction across entire countries and continents. This has created greater connectivity among individuals and communities, which in turn has torn down geographical barriers, allowing relationships to grow across borders.
 <br>
 <br>
-Along with this, thanks to the democratization of information, knowledge, and in turn power, has been shifted away from traditional gatekeepers such as libraries, colleges and the media. Anyone with a connection can gain access to limitless amounts of information, participate in discussions and debates, and contribute to the gathering of more knowledge. This has empowered many previously unheard voices, but has also increased concerns about the spread of misinformation and the erosion of trust in higher authorititative sources.
+Along with this, thanks to the democratization of information and knowledge, power has been shifted away from traditional gatekeepers such as libraries, colleges and the media. Anyone with a network connection can gain access to limitless amounts of information, participate in discussions and debates, and contribute to the gathering of more knowledge. This has empowered many previously unheard voices, but has also increased concerns about the spread of misinformation and the erosion of trust in higher authorititative sources.
 <br>
 <br>
-Everyday social life has also been influenced immensly by the rise of e-commerce and digital economies. Online shopping and digital banking have changed how most people work, shop and manage finances. This has created more opportunities for entrepreneurs and global trade, but in turn has also caused damage to traditional industries, leading to job displacement. On top of this, however, the Internet has become the perfect space for cultural exchange. Social media platforms have allowed people to express themselves, build communities and engage in cultural exchanges. Despite this, the Internet has also introduced problems like cyber-bullying and targeted harassment.
+Everyday social life has also been influenced immensely by the rise of e-commerce and digital economies. Online shopping and digital banking have changed how most people work, shop and manage finances. This has created more opportunities for entrepreneurs and global trade, but in turn has also caused damage to traditional industries, leading to job displacement. On top of this, the Internet has become the perfect space for cultural exchange. Social media platforms have allowed people to express themselves, build communities and engage in cultural exchanges. Despite this, the Internet has also introduced problems like cyber-bullying and targeted harassment.
 <br>
 <br>
-
+<br>
 
 
 

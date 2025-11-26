@@ -6,28 +6,44 @@
 <br>
 Key players in the creation of the internet:
 <br>
+<br>
  Paul Baran (1926 - 2011):
+ 
  Paul originally proposed a communication network with no central command point. He called his proposal a distributed network.
 <br>
+<br>
  Lawrence Roberts (1937 - 2018):
+ 
  Chief scientist at ARPA who was responsible for creating the first computer networks. Liked Paul Baran's idea of the distributed network and was the one who began development of the idea.
 <br>
+<br>
  Leonard Kleinrock (1934 - Present):
+ 
  Worked with Lawrence Roberts in the creation of the distributed network.
 <br>
+<br>
  Donald Davies (1924 - 2000):
+ 
  Developed similar technology to Lawrence Roberts and Leonard Kleinrock at the National Physical Laboratory in Middlesex.
 <br>
+<br>
  Bob Kahn (1938 - Present) and Vint Cerf (1943 - Present):
+ 
  American Scientists who developed TCP and IP, protocols which manage how data moves through a network.
 <br>
+<br>
  Paul Mockapetris (1948 - Present) and Jon Postel (1943 - 1998):
+ 
  Inventors of DNS, the so called 'phone book of the internet'.
 <br>
+<br>
  Tim Berners-Lee (1955 - Present):
+ 
  Creator of the World Wide Web ('WWW'), who developed many principles, such as HTML, HTTP, etc...
 <br>
+<br>
  Marc Andreessen (1971 - Present):
+ 
  Creator of the first web browser, 'Mosaic'.
 <br>
 <br>

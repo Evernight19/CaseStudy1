@@ -118,10 +118,11 @@ Web 3.0 is characterised by how:
 - It is more secure.
 
 - It is more interactive and immersive.
-
-
-
-Societal impact:
+<br>
+<br>
+<br>
+<br>
+***Societal impact:***
 <br>
 <br>
 hi

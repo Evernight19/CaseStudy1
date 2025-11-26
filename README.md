@@ -81,3 +81,7 @@ Eventually, in 1995, the full potential of the Internet as much more than a mean
 With the number of Internet Addresses on different domains, such as .com - .net and .org, still rapidly increasing due to the dot-com boom, the United States Government privatised the Domain Name System (DNS). An organisation called the Internet Corporation for Assigned Names and Numbers (ICANN) was inevitably formed and given the responsibility of administering policy for the Internet name and address system. 
 
 The formation of ICANN was a major turning point in the Internets transition from its military and higher education origins.
+<br>
+<br>
+<br>
+The adoption of broadband Internet access in the early 2000's, like DSL and cable, made it possible for people to access the internet at significantly faster speeds, opening up new possible uses for the Internet, such as gaming and video streaming.

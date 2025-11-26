@@ -69,6 +69,8 @@ A mere year after the first commercial dial-up service provider was released, Ar
 Tim Berners-Lee, an English computer programmer, introduced the World Wide Web, allowing the internet to be a web of information instead of simply being a network to send and receive files. In order to achieve this, Hypertext Markup Language (HTML), Uniform Resource Identifier and Universal Resource Locator (URI and URL), and Hypertext Transfer Protocol (HTTP) were developed. This technology was made public in 1993.
 <br>
 <br>
+<br>
+<br>
 After Tim Berners-Lee introduced the World Wide Web to the public, the United States Government privatised its management to keep up with the immense amount of demand. Still, a lack of regulation gave rise to an Internet Service Provider (ISP) monopoly in the United States. 
 The High Performance Computing Act (HPCA) was introduced by the former Senator Al Gore and was passed by congress in 1991. This bill provided 600 million dollars for high-performance computing. It also led to the creation of many revolutionary technologies, such as high-speed fiber optic computer networks.
 

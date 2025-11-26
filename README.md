@@ -59,3 +59,6 @@ Thomas Merill and Lawrence Roberts, the men who created the first computer netwo
 
 The first Arpanet connection made outside of the United States of America was when University College London and Norway’s Royal Radar Establishment joined. At this point, it was starting to become a challenge to integrate all the separate computers into one, single worldwide Internet. However, at this point, Arpanets existence was still unknown to the general public as it was mainly used as a secretive Defense Department tool. By the time Arpanets system had reached roughly fifty-seven network computers (and was still growing), The Defense Department in the United States had completely taken control over the running of Arpanet.
 Due to the ever-increasing rate at which Arpanet was growing, it started becoming difficult to determine who was using it and what they were using it for, which in turn increased the United States Governments initial security concerns. 
+
+In the early 1980's, researchers and the private sector in the United States took over the running and expansion of Arpanet, while the Defense Department removed their computers from it, with the reason being cited as: “sensitive nature of military systems and the increasing sophistication of civilian computer experts and illegal system trespassers, often called ‘hackers.’”. 
+

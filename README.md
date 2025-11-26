@@ -98,4 +98,24 @@ It is more personalised.
 It is more focused on community and collaboration.
 
 It is more business-oriented.
+<br>
+<br>
+<br>
+<br>
+From the mid-2000's on, the Internet would evolve into the "Semantic Web", a vision for the Internets future in which information on the web is more connected, intelligent and easy to understand by machines, such as AI. The increase in mobile devices and wireless Internet access has made it possible to access the Internet anytime, anyplace and by anyone, atleast anyone with a capable device.
+This evolution is reffered to as "Web 3.0".
+
+<br>
+<br>
+Web 3.0 is characterised by how:
+
+It is based on using new technologies.
+
+It is more intelligent.
+
+It is more decentralised.
+
+It is more secure.
+
+It is more interactive and immersive.
 

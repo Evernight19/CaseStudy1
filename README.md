@@ -133,10 +133,6 @@ Web 3.0 is characterised by how:
 <br>
 <br>
 
-***Societal Viewpoint Analysis:***
-<br>
-
-
 ***Scientific Viewpoint Analysis:***
 <br>
 The development of the Internet reshaped how knowledge is created shared and applied. It transofmred research from an isolated affair into a globally interconnected enterprise, which in turn accelerated discovery across the globe.
@@ -155,6 +151,19 @@ While the Internet has democratized science, it also offers many challenges, suc
 <br>
 <br>
 <br>
+
+***Societal Viewpoint Analysis:***
+<br>
+The development of the Internet has significantly improved, and continues to improve worldwide communication, culture, commerce and social structures. It remains both an empowering and disruptive instrument, creating both new opportunities and complex challenges.
+<br>
+Firstly is how the Internet radically changed communication. Emails, instant messaging and social media have replaced traditional methods of communication, allowing for real-time interaction across entire countries and continents. This has created greater connectivity among individuals and communities, which in turn has torn down geographical barriers, allowing relationships to grow across borders.
+<br>
+Along with this, 
+
+
+
+
+
 ***Ethical Reflection & Improvements:***
 <br>
 

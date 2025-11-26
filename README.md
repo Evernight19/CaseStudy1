@@ -4,9 +4,9 @@
 ### www.scienceandmediamuseum.org.uk/object-and-stories/short-history-internet](https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
 ### www.education.cfr.org/learn/timeline/origins-internet](https://education.cfr.org/learn/timeline/origins-internet
 
-### *** Key players in the creation of the internet: ***
+### ***Key players in the creation of the internet:***
 
-### *** Paul Baran (1926 - 2011): ***
+### ***Paul Baran (1926 - 2011):***
 ### Paul originally proposed a communication network with no central command point. He called his proposal a distributed network.
 
 ### Lawrence Roberts (1937 - 2018):

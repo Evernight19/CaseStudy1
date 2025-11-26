@@ -135,21 +135,15 @@ Web 3.0 is characterised by how:
 
 ***Scientific Viewpoint Analysis:***
 <br>
-The development of the Internet reshaped how knowledge is created shared and applied. It transofmred research from an isolated affair into a globally interconnected enterprise, which in turn accelerated discovery across the globe.
-<br>
+The development of the Internet reshaped how knowledge is created, shared and applied. It transformed research from an isolated affair into a globally interconnected enterprise, which in turn accelerated discovery across the globe.
 <br>
 One of the greatest benefits of the Internet is how it democratized knowledge, granting everyone limitless access to information. Online databases, digital libraries and open-acccess platforms allow scientists and others to access cutting-edge research quickly and easily. It also allows new scientific discoveries to be shared worldwide instantly.
 <br>
+The Internet also allows researchers to co-ordinate across borders and continents in real time, sharing data, methods and results. This ability has been crucial in projects such as climate modelling, which requires massive amounts of data and diverse expertise. Online forums and video conferencing created a culture of teamwork, breaking down barriers that once slowed progress.
 <br>
-The Internet also allows researchers to co-ordinate across borders and continents in real time, sharing data, methods and results. This ability has been crucial in projects such as climate modeling, which requires massive amounts of data and diverse expertise. Online forums and video conferencing created a culture of teamwork, breaking down barriers that once slowed progress.
+The Internet enables researchers to process massive datasets in genomics, astrophysics, etc... Cloud computing and distributed networks allow computational power that was previously thought of as impossible. In addition, the rise of "Citizen Science" - non-experts contributing data through online platforms - has increased the scope of research. In addition, the Internet also allows for accelerated peer review and feedback, which allows for scientists and others to refine their work more quickly.
 <br>
-<br>
-The Internet enables researchers to process massive datasets in genomics, astrophysics, etc... Cloud computing and distributed networks allow computational power that was previously though of as impossible. In addition, the rise of "citizen science" - non-experts contributing data through online platforms - has increased the scope of research. In addition, the Internet also allows for accelerated peer review and feedback, which allows for scientists and others to refine their work more quickly.
-<br>
-<br>
-While the Internet has democratized science, it also offers many challenges, such as: information overload, data privacy concerns and misinformation. Even so, current innovations promise to continue enhancing scientific progress.
-<br>
-<br>
+While the Internet has democratized science, it also offers many challenges, such as: information overload, data privacy concerns and misinformation, to name but a few. Even so, current innovations promise to continue enhancing scientific progress. COST
 <br>
 
 ***Societal Viewpoint Analysis:***

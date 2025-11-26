@@ -62,3 +62,20 @@ Due to the ever-increasing rate at which Arpanet was growing, it started becomin
 
 In the early 1980's, researchers and the private sector in the United States took over the running and expansion of Arpanet, while the Defense Department removed their computers from it, with the reason being cited as: “sensitive nature of military systems and the increasing sophistication of civilian computer experts and illegal system trespassers, often called ‘hackers.’”. 
 
+The first Internet Engineering Task Force (IETF) was created in 1986 from a group of network designers, operators, vendors and researchers.
+
+A mere year after the first commercial dial-up service provider was released, Arpanet was decommissioned. The United States Military then officially handed over administration to the National Science Foundation Network (NSFNET). 
+
+Tim Berners-Lee, an English computer programmer, introduced the World Wide Web, allowing the internet to be a web of information instead of simply being a network to send and receive files. In order to achieve this, Hypertext Markup Language (HTML), Uniform Resource Identifier and Universal Resource Locator (URI and URL), and Hypertext Transfer Protocol (HTTP) were developed. This technology was made public in 1993.
+<br>
+<br>
+After Tim Berners-Lee introduced the World Wide Web to the public, the United States Government privatised its management to keep up with the immense amount of demand. Still, a lack of regulation gave rise to an Internet Service Provider (ISP) monopoly in the United States. 
+The High Performance Computing Act (HPCA) was introduced by the former Senator Al Gore and was passed by congress in 1991. This bill provided 600 million dollars for high-performance computing. It also led to the creation of many revolutionary technologies, such as high-speed fiber optic computer networks.
+
+With help from the HPCA, researchers in the University of Illinois developed the first web browser in 1992, called Mosaic (which would later be re-named to Netscape). Mosaic allowed people to view words and pictures on the same page, with scroll bars and also clickable links. Before this, such things would appear in a new window. Also in this year, the number of computers connected to the Internet would increase pass one million.
+
+Eventually, in 1995, the full potential of the Internet as much more than a means of simply sharing research had started to be realised. When this happened, NSFNET was dissolved, and the Internet was fully privatised. In the United States, Bill Clinton and his administration also turned over management of the Internet's backbone to the private sector. Around this time, commercialization of the Internet also began, with Secure Sockets Layer (SSL) enabling online financial transactions.
+
+With the number of Internet Addresses on different domains, such as .com - .net and .org, still rapidly increasing due to the dot-com boom, the United States Government privatised the Domain Name System (DNS). An organisation called the Internet Corporation for Assigned Names and Numbers (ICANN) was inevitably formed and given the responsibility of administering policy for the Internet name and address system. 
+
+The formation of ICANN was a major turning point in the Internets transition from its military and higher education origins.

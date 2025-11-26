@@ -121,6 +121,17 @@ Web 3.0 is characterised by how:
 <br>
 <br>
 
-***Societal impact:***
+***Societal Viewpoint Analysis:***
 <br>
-hi
+
+
+***Scientific Viewpoint Analysis:***
+<br>
+
+
+***Ethical Reflection & Improvements:***
+<br>
+
+
+***Conclusion:***
+<br>

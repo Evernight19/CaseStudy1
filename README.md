@@ -147,7 +147,7 @@ The Internet also allows researchers to co-ordinate across borders and continent
 The Internet enables researchers to process massive datasets in genomics, astrophysics, etc... Cloud computing and distributed networks allow computational power that was previously thought of as impossible. In addition, the rise of "Citizen Science" - non-experts contributing data through online platforms - has increased the scope of research. In addition, the Internet also allows for accelerated peer review and feedback, which allows for scientists and others to refine their work more quickly.
 <br>
 <br>
-While the Internet has democratized science, it also offers many challenges, such as: information overload, data privacy concerns and misinformation, to name but a few. Even so, current innovations promise to continue enhancing scientific progress. COST
+While the Internet has democratized science, it also offers many challenges, such as: information overload, data privacy concerns and misinformation, to name but a few. Net neutrality promotes the equal treatment of all Internet users. One of the biggest debates is "should Internet Service Providers have the power to prioritize certain content over others, thereby limiting access to information". Even so, current innovations promise to continue enhancing scientific progress.
 <br>
 <br>
 
@@ -167,9 +167,16 @@ Everyday social life has also been influenced immensely by the rise of e-commerc
 <br>
 <br>
 
-
-
 ***Ethical Reflection & Improvements:***
+<br>
+Ethical matters comprise of privacy concerns, misinformation, net neutrality, data security and the digital divide. All of these issues have implications for both individuals and society in general. 
+<br>
+<br>
+When it comes to privacy and data protection, many users are not aware of the extent to which their data is being used and stored by Governments and organisations. The majority of people do not read the fine print and end up signing contracts without being fully informed of the more complex implications. While many companies have made an effort to be more transparent by the use of increased literature/leaflets and advertising, most individuals simply ignore these enhancements. 
+<br>
+<br>
+There has been an immense increase of misinformation and cyber-attacks, especially in recent years. The rise of social media platforms, such as Instagram and X (Twitter), pose ethical challenges, dissemination of false information, and the impact it has on the worlds population. The growth of deepfake technology and AI has complicated this. The amount of cyber-attack breaches leaves individuals and companies in a vulnerable position because hackers are accessing their private data. Improvements in cyber-security must be updated continually by both individuals and organisations. 
+<br>
 <br>
 
 

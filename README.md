@@ -84,4 +84,16 @@ The formation of ICANN was a major turning point in the Internets transition fro
 <br>
 <br>
 <br>
-The adoption of broadband Internet access in the early 2000's, like DSL and cable, made it possible for people to access the internet at significantly faster speeds, opening up new possible uses for the Internet, such as gaming and video streaming.
+The adoption of broadband Internet access in the early 2000's, like DSL and cable, made it possible for people to access the internet at significantly faster speeds, opening up new possible uses for the Internet, such as gaming and video streaming. From this point on, the Internet would begin to shift more and more away from the static, one-way communication system it had originally been designed as to an active, collaborative and participatory platform. This transformation would come to be known as "Web 2.0", a term coined by Tim O'Reilly in 2004.
+
+This new age would be defined by a few key features:
+It is more interactive and dynamic.
+
+It is based on user-generated content.
+
+It is more personalised.
+
+It is more focused on community and collaboration.
+
+It is more business-oriented.
+

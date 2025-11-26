@@ -1,5 +1,8 @@
 # Nature of Enterprise Computing - Case Study on the History of the Internet:
 ## Joshua Lyons:
+### Sources: 
+### www.scienceandmediamuseum.org.uk/object-and-stories/short-history-internet
+### education.cfr.org/learn/timeline/origins-internet
 
-The history of the internet begins with
-Arpanet
+While the Internet today is a place of free flowing information used by everyone, everyday world-wide, that was not always the case.
+The Internet Originally began as a secure, closed information-sharing network for government utility.

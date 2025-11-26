@@ -178,7 +178,12 @@ When it comes to privacy and data protection, many users are not aware of the ex
 There has been an immense increase of misinformation and cyber-attacks, especially in recent years. The rise of social media platforms, such as Instagram and X (Twitter), pose ethical challenges, dissemination of false information, and the impact it has on the worlds population. The growth of deepfake technology and AI has complicated this. The amount of cyber-attack breaches leaves individuals and companies in a vulnerable position because hackers are accessing their private data. Improvements in cyber-security must be updated continually by both individuals and organisations. 
 <br>
 <br>
-It is the responsibility of IT professionals to undertake ethical responsibilities of the work that they develop. It is up to them to ensure that the products that they create do not enable surveillance, or facilitate cyber-bullying. This is an ongoing and ever-evolving concern. 
-
+It is the responsibility of IT professionals to undertake ethical responsibilities of the work that they develop. It is up to them to ensure that the products that they create do not enable surveillance, or facilitate cyber-bullying. This is an ongoing and ever-evolving concern.
+<br>
+<br>
+Depending on your demographic or region in the world, depends on your access to the Internet. It is not the same for everyone. This is what is called the "Digital Divide". Many people do not have the resources to access the Internet and benefit from its abundance of information. Therefore, the question can be asked, "Should access to the Internet be considered a basic human right?".
+<br>
+<br>
 ***Conclusion:***
 <br>
+

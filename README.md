@@ -7,7 +7,7 @@
 Key players in the creation of the internet:
 <br>
 <br>
-*** Paul Baran (1926 - 2011): ***
+***Paul Baran (1926 - 2011):***
  
  Paul originally proposed a communication network with no central command point. He called his proposal a distributed network.
 <br>

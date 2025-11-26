@@ -156,10 +156,16 @@ While the Internet has democratized science, it also offers many challenges, suc
 <br>
 The development of the Internet has significantly improved, and continues to improve worldwide communication, culture, commerce and social structures. It remains both an empowering and disruptive instrument, creating both new opportunities and complex challenges.
 <br>
+<br>
 Firstly is how the Internet radically changed communication. Emails, instant messaging and social media have replaced traditional methods of communication, allowing for real-time interaction across entire countries and continents. This has created greater connectivity among individuals and communities, which in turn has torn down geographical barriers, allowing relationships to grow across borders.
 <br>
-Along with this, 
-
+<br>
+Along with this, thanks to the democratization of information, knowledge, and in turn power, has been shifted away from traditional gatekeepers such as libraries, colleges and the media. Anyone with a connection can gain access to limitless amounts of information, participate in discussions and debates, and contribute to the gathering of more knowledge. This has empowered many previously unheard voices, but has also increased concerns about the spread of misinformation and the erosion of trust in higher authorititative sources.
+<br>
+<br>
+Everyday social life has also been influenced immensly by the rise of e-commerce and digital economies. Online shopping and digital banking have changed how most people work, shop and manage finances. This has created more opportunities for entrepreneurs and global trade, but in turn has also caused damage to traditional industries, leading to job displacement. On top of this, however, the Internet has become the perfect space for cultural exchange. Social media platforms have allowed people to express themselves, build communities and engage in cultural exchanges. Despite this, the Internet has also introduced problems like cyber-bullying and targeted harassment.
+<br>
+<br>
 
 
 

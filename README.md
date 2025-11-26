@@ -57,7 +57,5 @@ The United States Government had been extremely worried about a potential immine
 
 Thomas Merill and Lawrence Roberts, the men who created the first computer network using telephone lines, were crucial researchers in the development of Arpanent, which delivered its first message from a computer in the University of California to a computer at the Stanford Research Institute. However, despite this incredible feat, the system that was developed crashed after only two letters of the message, "login", had been transmitted, with only the 'l' and 'o' being received. By the end of this year, 4 computers would be successfully connected to Arpanet.
 
-
-
-The original intention of Arpanet was to act as a secure method of communication, however, as it expanded and more and more people began using it, it became far more difficult to maintain it's security.
-
+The first Arpanet connection made outside of the United States of America was when a college in London and Norway’s Royal Radar Establishment joined. At this point, it was starting to become a challenge to integrate all the separate computers into one, single worldwide Internet. However, at this point, Arpanets existence was still unknown to the general public as it was mainly used as a secretive Defense Department tool. By the time Arpanets system had reached roughly fifty-seven network computers (and was still growing), The Defense Department in the United States had completely taken control over the running of Arpanet.
+Due to the ever-increasing rate at which Arpanet was growing, it started becoming difficult to determine who was using it and what they were using it for, which in turn increased the United States Governments initial security concerns. 

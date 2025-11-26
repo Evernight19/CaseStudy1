@@ -7,3 +7,4 @@
 While the Internet today is a place of free flowing information used by everyone, everyday world-wide, that was not always the case.
 The Internet Originally began as a secure, closed information-sharing network for government utility, Mainly used by the U.S Department of Defense, as well as faculty in research institutes.
 
+The United States Government had been extremely worried about a potential imminent attack on their communication lines from the Soviet Union during the Cold War. In response to these concerns, 

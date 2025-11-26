@@ -88,7 +88,7 @@ The adoption of broadband Internet access in the early 2000's, like DSL and cabl
 <br>
 <br>
 This new age would be defined by a few key features:
-<br>
+
 It is more interactive and dynamic.
 
 It is based on user-generated content.
@@ -108,7 +108,7 @@ This evolution is reffered to as "Web 3.0".
 <br>
 <br>
 Web 3.0 is characterised by how:
-<br>
+
 It is based on using new technologies.
 
 It is more intelligent.

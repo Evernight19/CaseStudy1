@@ -1,8 +1,8 @@
 # Nature of Enterprise Computing - Case Study on the History of the Internet:
 ## Joshua Lyons:
 ### Sources: 
-### www.scienceandmediamuseum.org.uk/object-and-stories/short-history-internet](https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
-### www.education.cfr.org/learn/timeline/origins-internet](https://education.cfr.org/learn/timeline/origins-internet
+### https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
+### https://education.cfr.org/learn/timeline/origins-internet
 <br>
 Key players in the creation of the internet:
 <br>

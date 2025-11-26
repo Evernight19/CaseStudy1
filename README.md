@@ -51,21 +51,33 @@ Key players in the creation of the internet:
 <br>
 <br>
 <bt>
+
+The Internet began as a military defense system in the United States of America, in the late 1960's. It was called ARPANET. The first message was sent on October 29th, 1969 from the University of California, Los Angeles to Stanford. Researchers in the United States of America, United Kingdom and France collaborated on this early network and focused on interconnecting computer networks. All of these collaborations resulted in the standardisation of TCP/IP on January 1st, 1983. This is often referred to as the "Birth of the Internet" because it meant different networks could communicate with one and other.  
+
+Although ARPANET was a significant instrument in how the world communicates and interacts, it was very limited. Through this study, I will demonstrate how the Internet came from humble beginnings and evolved into a tool almost every person, business, Government and country relies on daily in order to live their lives. 
+
+
+
+
+
+
+
+
 While the Internet today is a place of free flowing information used by everyone, everyday world-wide, that was not always the case.
-The Internet Originally began as a secure, closed information-sharing network for government utility, Mainly used by the U.S Department of Defense, as well as faculty in research institutes.
+The Internet Originally began as a secure, closed information-sharing network for government utility, Mainly used by the United States Department of Defense, as well as faculty in research institutes.
 
-The United States Government had been extremely worried about a potential imminent attack on their communication lines from the Soviet Union during the Cold War. In response to these concerns, The Department of Self Defens, in co-operation with the Massachusettes Institute of Technology, began developing a closed computer network which would later be called Arpanet.
+The United States Government had been extremely worried about a potential imminent attack on their communication lines from the Soviet Union during the Cold War. In response to these concerns, The Department of Self Defense, in co-operation with the Massachusettes Institute of Technology, began developing a closed computer network which would later be called ARPANET.
 
-Thomas Merill and Lawrence Roberts, the men who created the first computer network using telephone lines, were crucial researchers in the development of Arpanent, which delivered its first message from a computer in the University of California to a computer at the Stanford Research Institute. However, despite this incredible feat, the system that was developed crashed after only two letters of the message, "login", had been transmitted, with only the 'l' and 'o' being received. By the end of this year, 4 computers would be successfully connected to Arpanet.
+Thomas Merill and Lawrence Roberts, the men who created the first computer network using telephone lines, were crucial researchers in the development of ARPANET, which delivered its first message from a computer in the University of California to a computer at the Stanford Research Institute. However, despite this incredible feat, the system that was developed crashed after only two letters of the message, "login", had been transmitted, with only the 'l' and 'o' being received. By the end of this year, 4 computers would be successfully connected to Arpanet.
 
-The first Arpanet connection made outside of the United States of America was when University College London and Norway’s Royal Radar Establishment joined. At this point, it was starting to become a challenge to integrate all the separate computers into one, single worldwide Internet. However, at this point, Arpanets existence was still unknown to the general public as it was mainly used as a secretive Defense Department tool. By the time Arpanets system had reached roughly fifty-seven network computers (and was still growing), The Defense Department in the United States had completely taken control over the running of Arpanet.
+The first ARPANET connection made outside of the United States of America was when University College London and Norway’s Royal Radar Establishment joined. At this point, it was starting to become a challenge to integrate all the separate computers into one, single worldwide Internet. However, at this point, Arpanets existence was still unknown to the general public as it was mainly used as a secretive Defense Department tool. By the time ARPANET's system had reached roughly fifty-seven network computers (and was still growing), The Defense Department in the United States had completely taken control over the running of Arpanet.
 Due to the ever-increasing rate at which Arpanet was growing, it started becoming difficult to determine who was using it and what they were using it for, which in turn increased the United States Governments initial security concerns. 
 
-In the early 1980's, researchers and the private sector in the United States took over the running and expansion of Arpanet, while the Defense Department removed their computers from it, with the reason being cited as: “sensitive nature of military systems and the increasing sophistication of civilian computer experts and illegal system trespassers, often called ‘hackers.’”. 
+In the early 1980's, researchers and the private sector in the United States took over the running and expansion of ARPANET, while the Defense Department removed their computers from it, with the reason being cited as: “sensitive nature of military systems and the increasing sophistication of civilian computer experts and illegal system trespassers, often called ‘hackers.’”. 
 
 The first Internet Engineering Task Force (IETF) was created in 1986 from a group of network designers, operators, vendors and researchers.
 
-A mere year after the first commercial dial-up service provider was released, Arpanet was decommissioned. The United States Military then officially handed over administration to the National Science Foundation Network (NSFNET). 
+A mere year after the first commercial dial-up service provider was released, ARPANET was decommissioned. The United States Military then officially handed over administration to the National Science Foundation Network (NSFNET). 
 
 Tim Berners-Lee, an English computer programmer, introduced the World Wide Web, allowing the internet to be a web of information instead of simply being a network to send and receive files. In order to achieve this, Hypertext Markup Language (HTML), Uniform Resource Identifier and Universal Resource Locator (URI and URL), and Hypertext Transfer Protocol (HTTP) were developed. This technology was made public in 1993.
 <br>

@@ -2,7 +2,7 @@
 ## Joshua Lyons:
 ### Sources: 
 ### www.scienceandmediamuseum.org.uk/object-and-stories/short-history-internet
-### education.cfr.org/learn/timeline/origins-internet
+### www.education.cfr.org/learn/timeline/origins-internet
 
 While the Internet today is a place of free flowing information used by everyone, everyday world-wide, that was not always the case.
 The Internet Originally began as a secure, closed information-sharing network for government utility.

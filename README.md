@@ -5,6 +5,14 @@
 ### https://education.cfr.org/learn/timeline/origins-internet
 ### https://www.linearity.io/blog/the-history-of-the-internet/
 <br>
+<br>
+<br>
+The Internet began as a military defense system in the United States of America, in the late 1960's. It was called ARPANET. The first message was sent on October 29th, 1969 from the University of California, Los Angeles to Stanford. Researchers in the United States of America, United Kingdom and France collaborated on this early network and focused on interconnecting computer networks. All of these collaborations resulted in the standardisation of TCP/IP on January 1st, 1983. This is often referred to as the "Birth of the Internet" because it meant different networks could communicate with one and other.  
+
+Although ARPANET was a significant instrument in how the world communicates and interacts, it was very limited. Through this study, I will demonstrate how the Internet came from humble beginnings and evolved into a tool almost every person, business, Government and country relies on daily in order to live their lives.
+<br>
+<br>
+<br>
 Key players in the creation of the internet:
 <br>
 <br>
@@ -50,19 +58,7 @@ Key players in the creation of the internet:
 <br>
 <br>
 <br>
-<bt>
-
-The Internet began as a military defense system in the United States of America, in the late 1960's. It was called ARPANET. The first message was sent on October 29th, 1969 from the University of California, Los Angeles to Stanford. Researchers in the United States of America, United Kingdom and France collaborated on this early network and focused on interconnecting computer networks. All of these collaborations resulted in the standardisation of TCP/IP on January 1st, 1983. This is often referred to as the "Birth of the Internet" because it meant different networks could communicate with one and other.  
-
-Although ARPANET was a significant instrument in how the world communicates and interacts, it was very limited. Through this study, I will demonstrate how the Internet came from humble beginnings and evolved into a tool almost every person, business, Government and country relies on daily in order to live their lives. 
-
-
-
-
-
-
-
-
+<br>
 While the Internet today is a place of free flowing information used by everyone, everyday world-wide, that was not always the case.
 The Internet Originally began as a secure, closed information-sharing network for government utility, Mainly used by the United States Department of Defense, as well as faculty in research institutes.
 
